@@ -1,16 +1,16 @@
-## Hi there 👋
+# Startup.Ready.
 
-<!--
-**startupready-dev/startupready-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Decision intelligence for founders.
 
-Here are some ideas to get you started:
+Startup.Ready. is an assessment and development system. It models a startup as a
+system of assumptions, evidence, decisions, and dependencies across six pillars:
+Founder, Problem, Market, Business Model, Go-to-Market, and Financial.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Founders take an assessment, get scored, and work the gaps with a worksheet
+library triggered by their results.
+
+**Site:** https://startupready.ai
+
+Built by Dr. Shaun P. Digan, PhD in Entrepreneurship, author of *Persuade* (Wiley, 2021).
+
+Application code is private.
